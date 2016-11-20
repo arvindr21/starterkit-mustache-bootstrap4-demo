@@ -1,5 +1,5 @@
 ---
-title: Paragraph
+title: Standard Paragraph
 ---
 
 [Insert description here]
