@@ -1,9 +1,13 @@
 ![license](https://img.shields.io/github/license/pattern-lab/starterkit-mustache-demo.svg)
 [![Packagist](https://img.shields.io/packagist/v/pattern-lab/starterkit-mustache-demo.svg)](https://packagist.org/packages/pattern-lab/starterkit-mustache-demo) [![Gitter](https://img.shields.io/gitter/room/pattern-lab/php.svg)](https://gitter.im/pattern-lab/php)
 
-# Demo StarterKit for Mustache
+# Demo StarterKit for Mustache with Bootstrap 4!
 
 The Demo StarterKit for Mustache is meant to show off some of the capabilities of developing Mustache-based projects in Pattern Lab.
+
+## TODO:
+* Convert existing patterns to Bootstrap 4 markup
+* Add components from Bootstrap 4 that are missing in the demo, for completeness
 
 ## Requirements
 
